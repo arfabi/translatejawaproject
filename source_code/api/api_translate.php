@@ -6,7 +6,7 @@ $text = $_POST['text'];
 $language = $_POST['language'];
 
 // Replace with your own API key
-$apiKey = "AIzaSyAkOSof8REz7ozJnJSzVbl4Qy5HEJn8qmI";
+$apiKey = "";
 
 
 if($language=="engtojv"){
